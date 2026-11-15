@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**edward-crawley/edward-crawley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github site.  My name is Ed, an experienced Service Desk Analyst, intermediate Coder and aspiring Application Developer or Integreation Engineer.
+I hava a vast amount of experience in healthcare IT, Financial Services and Telecom.
+My primary development tech stack inclues html/css, javascript, php and python.
+Currently working on a fintech dashboard and marketing website.
+Currently study for the ServiceNow CSA Exam and Microsoft Azure Certifications.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like:
+flying my drone
+weekend getaways
+outdoor walking
+learning new tech
+financial market news
