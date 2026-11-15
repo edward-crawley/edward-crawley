@@ -1,12 +1,19 @@
 ## Hi there 👋
 
 Welcome to my Github site.  My name is Ed, an experienced Service Desk Analyst, intermediate Coder and aspiring Application Developer or Integreation Engineer.
-I hava a vast amount of experience in healthcare IT, Financial Services and Telecom.
+<p>I hava a vast amount of experience in healthcare IT, Financial Services and Telecom.
 My primary development tech stack inclues html/css, javascript, php and python.
 Currently working on a fintech dashboard and marketing website.
 Currently study for the ServiceNow CSA Exam and Microsoft Azure Certifications.
 
 I like:
+<ul>
+  <li>flying my drone</li>
+  <li>weekend getaways</li>
+  <li>outdoor walking</li>
+  <li>learning new tech</li>
+  <li>financial market news</li>
+  </ul>
 flying my drone
 weekend getaways
 outdoor walking
