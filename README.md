@@ -1,12 +1,13 @@
 ## Hi there 👋
 
 Welcome to my Github site.  My name is Ed; an experienced Service Desk Analyst, intermediate Coder and aspiring Application Developer or Integration Engineer.
-<p>I hava a vast amount of experience in Healthcare IT, Financial Services and Telecom.
+<p>I have a vast amount of experience in support of Healthcare IT, Financial Services and Telecom billing.</p>
+  <p>Service-oriented with a strong technical aptitude and extensive experience. I possess a Professionalism, Aptitude and Voice to authentically provide solutions and relay technical concepts.  Dedicated to providing quality customer service, designing process enhancements, implementing projects and continuous learning.</p>
   <ul>
     <li>The primary tools of my job are Active Directory, Azure and ServiceNow.</li>
-    <li>My primary development tech stack inclues HTML/CSS, JavaScript, PHP and Python.</li>
-    <li>I am creating two projects which are a fintech dashboard and an affiliate marketing website.</li>
-    <li>Currently studying for the ServiceNow CSA Exam and Microsoft Azure Certifications.</li>
+    <li>Applying a tech stack that includes HTML/CSS, JavaScript, MySQL, PHP and Python when creating personal projects.</li>
+    <li>Creating projects which are a fintech dashboard ui and an affiliate marketing website.</li>
+    <li>Studying for the ServiceNow CSA Exam and Microsoft Azure Certifications.</li>
   </ul>
 
 A few of my favorite things:
