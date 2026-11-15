@@ -7,7 +7,7 @@ Welcome to my Github site.  My name is Ed; an experienced Service Desk Analyst, 
     <li>The primary tools of the Service Desk are Active Directory, Azure and ServiceNow.</li>
     <li>My personal tech stack includes HTML/CSS, JavaScript, MySQL, PHP and Python.</li>
     <li>Studying for the ServiceNow CSA Exam and Microsoft Azure Certifications.</li>
-    <li>Creating repository for personal projects like a fintech dashboard and an affiliate marketing site.</li>
+    <li>Creating repository for personal projects ie., fintech dashboard and an affiliate marketing site.</li>
    </ul>
 
 A few of my favorite things:
