@@ -15,6 +15,6 @@ A few of my interests:
    <li>learning new tech</li>
   <li>financial market news</li>
   <li>walking outdoors</li>
-  <li>flying my drone</li>
+  <li>flying drones</li>
  </ul>
 
