@@ -6,7 +6,7 @@ Welcome to my Github site.  My name is Ed; an experienced Service Desk Analyst, 
   <ul>
     <li>Tools of current role include Active Directory, Azure, MS Office, ServiceNow and SolarWinds.</li>
     <li>Learning stack includes HTML/CSS, JavaScript, MySQL, PHP and Python.</li>
-    <li>Creating repository for personal projects ie., fintech dashboard and an online marketing site.</li>
+    <li>Creating repositories for personal projects ie., fintech dashboard and an online marketing site.</li>
    </ul>
 
 A few of my interests:
