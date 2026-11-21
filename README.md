@@ -16,3 +16,5 @@ A few of my interests:
   <li>flying drones</li>
  </ul>
 
+ Contact Info: ed.crawley@gmail.com
+
