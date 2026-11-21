@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my Github site.  My name is Ed; an experienced Service Desk Analyst, intermediate Coder and aspiring Application Support and/or Integration Engineer.
+Welcome to my Github site.  My name is Ed; an experienced Service Desk Analyst, intermediate Coder seeking an Application Support or Integration Engineer role.
 <p>I have a vast amount of experience in support of Healthcare IT, Financial Services and Telecom billing.</p>
   <p>Service-oriented with a strong technical aptitude and extensive experience. I possess a Professionalism, Aptitude and Voice to authentically provide solutions and relay technical concepts.</p>
   <ul>
