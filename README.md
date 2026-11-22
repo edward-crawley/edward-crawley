@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings,
 
 Welcome to my Github site.  My name is Ed; an experienced Service Desk Analyst, intermediate Coder preparing for my next role as an Application/Service Support or Development/Integration Engineer.
 <p>I have a vast amount of experience in support of Healthcare IT, Financial Services and Telecom billing systems.</p>
